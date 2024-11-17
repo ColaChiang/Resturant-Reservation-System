@@ -10,6 +10,15 @@ The project demonstrates simple algorithm applications in data management and re
 
 ---
 
+## Interface Preview
+
+Below is a preview of the system interface:
+
+![image](https://github.com/user-attachments/assets/b7b544cd-6c3f-479f-965a-508cb41995ed)
+
+---
+---
+
 ## Features
 ### 1. Add Reservations  
 Users can input customer names and phone numbers to save reservation data.
@@ -84,13 +93,6 @@ Open `index.html` in your browser to interact with the system.
 
 ---
 
-## Interface Preview
-
-Below is a preview of the system interface:
-
-![image](https://github.com/user-attachments/assets/b7b544cd-6c3f-479f-965a-508cb41995ed)
-
----
 
 
 ## Contributors
