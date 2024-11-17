@@ -50,3 +50,47 @@ Displays all reservations stored in the system.
 Install the required packages by running:
 ```bash
 pip install -r requirements.txt
+```
+(Currently, only Flask is required.)
+
+### 2. Start the Server
+Run the following command to start the server:
+```bash
+python app.py
+```
+The server will be hosted at:
+
+```arduino
+http://127.0.0.1:5000
+```
+### 3. Access the Frontend
+Open `index.html` in your browser to interact with the system.
+
+---
+
+## File Structure
+
+- **app.py**: Flask backend application that handles API requests.
+- **reservation_system.py**: Core Python script containing reservation logic.
+- **requirements.txt**: File listing Python dependencies required for the project.
+- **.gitignore**: Specifies files and directories to be ignored by Git.
+
+### Directories:
+- **static**: Contains static assets for the frontend.
+  - **script.js**: JavaScript file handling user actions and API calls.
+  - **style.css**: Custom styles for the frontend design.
+- **templates**: Contains HTML templates for the frontend.
+  - **index.html**: Main user interface for the reservation system.
+
+---
+
+## 貢獻者 (Contributors)
+
+- **Name**: 蔣哿樂 (CHIANG, KE-LE)  
+- **Student ID**: 111113201  
+- **Project Title**: 餐廳訂位系統 (Restaurant Reservation System)
+
+
+
+
+
