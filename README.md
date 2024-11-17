@@ -93,7 +93,7 @@ Below is a preview of the system interface:
 ---
 
 
-## 貢獻者 (Contributors)
+## Contributors
 
 - **Name**: 蔣哿樂 (CHIANG, KE-LE)  
 - **Student ID**: 111113201  
