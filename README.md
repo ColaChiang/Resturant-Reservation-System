@@ -8,7 +8,6 @@ This project is a **restaurant reservation system** built using **Flask** for th
 
 The project demonstrates simple algorithm applications in data management and retrieval.
 
----
 
 ## Interface Preview
 
@@ -16,7 +15,6 @@ Below is a preview of the system interface:
 
 ![image](https://github.com/user-attachments/assets/b7b544cd-6c3f-479f-965a-508cb41995ed)
 
----
 ---
 
 ## Features
